@@ -94,6 +94,12 @@ Logs:
 docker logs fredy -f
 ```
 
+**Default Login:**
+- Username: `admin`
+- Password: `admin`
+
+⚠️ **Important:** Change the default password after your first login!
+
 ### Manual (Node.js)
 
 -   Requirement: **Node.js 22 or higher**
@@ -106,6 +112,12 @@ yarn run start:frontend  # in another terminal
 ```
 
 👉 Open <http://localhost:9998>
+
+**Default Login:**
+- Username: `admin`
+- Password: `admin`
+
+⚠️ **Important:** Change the default password after your first login!
 
 ### With Unraid
 
