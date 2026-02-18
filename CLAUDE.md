@@ -162,7 +162,6 @@ Production runs on **Railway**. CLI available locally. Volume mounted at `/db`.
 - Default login: admin/admin
 - Frontend proxies `/api` to backend on port 9998 during development
 
-## Swiss Providers (TODO)
+## Swiss Providers
 - ImmoScout24.ch - Swiss real estate platform (different from German ImmoScout24.de)
-- Homegate.ch - Largest Swiss platform
 - Flatfox.ch - Modern Swiss platform
